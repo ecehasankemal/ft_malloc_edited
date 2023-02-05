@@ -1,1 +1,3 @@
 # ft_malloc_edited
+
+Bu proje https://github.com/teomandeniz adresinden referans alarak sadeleştirilmiş bir leak yemeyen malloc fonksiyonu çalışmasıdır...
